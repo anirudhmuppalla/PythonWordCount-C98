@@ -1,0 +1,7 @@
+I am using a computer.
+This computer has a mouse.
+The mouse has a scroll wheel.
+The scroll wheel has lights.
+The lights have LEDS.
+The LEDS have electricity.
+The electricity goes through wires.
